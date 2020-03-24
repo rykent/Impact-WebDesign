@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen&display=swap');
+body {
+	margin: 0;
+	background: url('background.jpg') 0 50% no-repeat fixed;
+	background-size: cover;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#textContainer {
+	margin: 0 100px;
+	font-size: 25px;
+	color: black;
+	background: #add9f4;
+	padding: 20px;
+	border-radius: 10px;
+}
+.imageContainer {
+	text-align: center;
+}
+#titleContainer {
+	font-size: 60px;
+	background: #468c98;
+	margin: 0 0 50px 0;
+	text-align: center;
+	padding: 3px 20px;
+}
